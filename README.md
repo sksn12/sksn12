@@ -44,13 +44,10 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksn12&layout=compact&bg_color=60,ffffff,bc90fe&title_color=000000&text_color=000000"
            /> </div> 
 
-        <div align= "center"> 
-             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔅 Baekjoon </h2> <br> 
-             [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sksn12)](https://solved.ac/sksn12)
-        </div>
-    </div>
 
+    </div>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=sksn12)](https://solved.ac/sksn12)
     
     
 
