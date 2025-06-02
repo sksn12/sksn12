@@ -1,5 +1,5 @@
 ## 👋 Hi there
-안녕하세요! 꾸준히 성장하는 개발자 youngman입니다.
+- 안녕하세요! 꾸준히 성장하는 개발자 youngman입니다.
 관심 있는 기술을 기록하고, 함께 나누는 걸 좋아합니다 😊
 ---
 
@@ -26,6 +26,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DB8C8C?style=flat-square&logo=mybatis&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
