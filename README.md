@@ -33,21 +33,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
-
----
-
-### 🌟 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksn12&show_icons=true&theme=default&hide_title=true&hide=issues&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksn12&layout=compact&hide=Shell&theme=default)
 
 </div>
 
 ---
+
 
 ### 🏆 백준
 
